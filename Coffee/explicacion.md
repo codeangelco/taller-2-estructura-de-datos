@@ -10,6 +10,7 @@ $$
 \frac{R'-r}{h'} = \frac{R-r}{h}
 $$
 Entonces para iterar en la formula inicial, simplemente despejamos la anterior para obtener R':
+
 $$
 R'=r+\frac{R-r}{h}*h'
 $$
