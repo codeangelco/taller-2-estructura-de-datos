@@ -6,9 +6,11 @@ Utilizamos metodo de bisección, ya que tenemos que iterar con varios valores de
 
 ### A tener en cuenta:
 El valor de R cambia segun la altura, así que se piensa en triangulos semejantes y que si:
+
 $$
 \frac{R'-r}{h'} = \frac{R-r}{h}
 $$
+
 Entonces para iterar en la formula inicial, simplemente despejamos la anterior para obtener R':
 
 $$
